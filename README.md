@@ -1,4 +1,4 @@
-# global-ai-bootcamp-2024
+# Global AI Bootcamp 2024
 
 
 
