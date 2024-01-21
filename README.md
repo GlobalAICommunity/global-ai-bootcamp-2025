@@ -3,6 +3,10 @@
 
 ## Content for your bootcamp
 
+### Keynote
+Keynote will be made available on 23 February 2024. Please keep 15 minutes free on your event.
+
+
 ### Lab: Explore the OpenAI GPT Models
 This lab offers a practical and immersive learning experience in Prompt Engineering. Discover the power of techniques like zero-shot learning and chain of thought. Explore the creative potential of DALL-E for image generation. Learn how to effectively use function calling to unlock the full capabilities of prompt engineering.   
 **Duration:** 75 Minutes   
