@@ -4,4 +4,4 @@
 
 ## Workshops
 - https://github.com/microsoft/OpenAIWorkshop
-- https://azure.github.io/responsible-ai-hub
+- https://learn.microsoft.com/en-us/training/modules/train-model-debug-with-responsible-ai-dashboard-azure-machine-learning/
