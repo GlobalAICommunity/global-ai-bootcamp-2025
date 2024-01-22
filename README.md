@@ -18,6 +18,7 @@ This lab offers a practical and immersive learning experience in Prompt Engineer
 
 
 ### Other available workshops
+- https://github.com/Azure/AI-in-a-Box
 - https://github.com/microsoft/OpenAIWorkshop
 - https://learn.microsoft.com/training/modules/train-model-debug-with-responsible-ai-dashboard-azure-machine-learning/
 - https://learn.microsoft.com/training/paths/develop-ai-solutions-azure-openai/
