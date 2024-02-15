@@ -41,3 +41,5 @@ The recommended time for the workshop is 75 minutes.
 00:50 - 01:15 |	Workshop part 2
 
 
+## Questions?
+If you run into any issues please contact us on: hq@globalai.community.
