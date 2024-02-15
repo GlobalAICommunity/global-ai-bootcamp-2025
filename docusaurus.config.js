@@ -60,9 +60,9 @@ const config = {
       },
 
       navbar: {
-        title: "Learn how to interact with OpenAI models",
+        title: "Organizers information",
         logo: {
-          alt: "Workshop: Learn how to interact with OpenAI models",
+          alt: "Global AI Bootcamp 2024",
           src: "img/logo-ws3.png",
         }
       },
