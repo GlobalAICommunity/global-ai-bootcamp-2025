@@ -14,6 +14,9 @@ This lab offers a practical and immersive learning experience in Prompt Engineer
 **Workshop:** [workshop.globalai.community](https://workshop.globalai.community/)    
 **Slides:** [Download from Github](https://github.com/GlobalAICommunity/AzureOpenAIService-Workshop/raw/main/presentation/global-ai-workshop.pptx)    
 
+### Presentations:
+
+
 
 
 
