@@ -12,7 +12,7 @@ const config = {
   title: "Learn how to interact with OpenAI models",
   tagline: "A 75-minute workshop on OpenAI GPT Models for Microsoft AI Tour",
   url: "https://globalaicommunity.github.io/",
-  baseUrl: "/Global-AI-Bootcamp-2024/",
+  baseUrl: "/global-ai-bootcamp-2024/",
 
   onBrokenLinks: "ignore",
   onBrokenMarkdownLinks: "ignore",
