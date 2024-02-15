@@ -9,8 +9,8 @@ import { themes as prismThemes } from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
 
-  title: "Learn how to interact with OpenAI models",
-  tagline: "A 75-minute workshop on OpenAI GPT Models for Microsoft AI Tour",
+  title: "Organizers information",
+  tagline: "",
   url: "https://globalaicommunity.github.io/",
   baseUrl: "/global-ai-bootcamp-2024/",
 
