@@ -15,7 +15,7 @@ Join us as we unveil GPT-4 Visual, a new model from OpenAI introducing multimoda
 Dive into Azure AI Studio - a cutting-edge 'code first' experience to build generative AI applications including enterprise chat and custom copilots. We'll share how to ingest real-time data from Microsoft Fabric's OneLake, test Large Language Models (LLMs), and deploy Proof of Concepts (PoCs) at scale. Join us for a journey of innovation!  
      
 **Recording:** [Watch the recording](https://ignite.microsoft.com/en-US/sessions/a630f4eb-a148-43cd-8a36-38dec7ed7098?source=sessions).   
-**Slides:** [Download the slides](https://medius.microsoft.com/video/asset/PPT/5158be5f-ecf8-4fcf-a3c2-5ce4fcf6c6c5?referrer=Microsoft+Ignite-%2Fen-US%2Fsessions%2F02b1a86c-657f-41e2-ac05-226e1a83f771&mhid=ignite&loc=en-us).   
+**Slides:** [Download the slides](https://medius.microsoft.com/video/asset/PPT/0c3a261f-a700-4923-9d55-e09548b55f9b?referrer=Microsoft+Ignite-%2Fen-US%2Fsessions%2Fa630f4eb-a148-43cd-8a36-38dec7ed7098&mhid=ignite&loc=en-us).   
 
 
 ### Vector search and state of the art retrieval for Generative AI apps
