@@ -21,7 +21,7 @@ slug: /keynote
 
 **Video files**
 - [Download MP4 - 4K Version (1.25GB)](https://globalaibootcamp.blob.core.windows.net/keynote/2024/Global_AI_Keynote_2024_4k.mp4)
-- [Download MP4 - HD Version (MB)](https://globalaibootcamp.blob.core.windows.net/keynote/2024/Global_AI_Keynote_2024_HD.mp4)
+- [Download MP4 - HD Version 430MB)](https://globalaibootcamp.blob.core.windows.net/keynote/2024/Global_AI_Keynote_2024_HD.mp4)
 
 **Captions**
 - [Download English Captions - .SRT](https://globalaibootcamp.blob.core.windows.net/keynote/2024/Global_AI_Keynote_2024_EN.srt)
