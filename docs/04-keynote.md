@@ -15,7 +15,7 @@ slug: /keynote
 
 - https://www.youtube.com/watch?v=LtxzL9Vh9hE
 
-*Captions available: English / Spanish / French / Portuguese / Hindi*
+*Captions available: English / Spanish / French / Portuguese / Hindi / Tamil*
 
 ### Downloads
 
@@ -29,6 +29,7 @@ slug: /keynote
 - [Download French Captions - .SRT](https://globalaibootcamp.blob.core.windows.net/keynote/2024/Global_AI_Keynote_2024_FR.srt)
 - [Download Portuguese Captions - .SRT](https://globalaibootcamp.blob.core.windows.net/keynote/2024/Global_AI_Keynote_2024_PT.srt)
 - [Download Hindi Captions - .SRT](https://globalaibootcamp.blob.core.windows.net/keynote/2024/Global_AI_Keynote_2024_HI.srt)
+- [Download Tamil Captions - .SRT](https://globalaibootcamp.blob.core.windows.net/keynote/2024/Global_AI_Keynote_2024_TA.srt)
 
 
 *If you require a different language please send us an email*
