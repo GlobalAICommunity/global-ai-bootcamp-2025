@@ -30,6 +30,8 @@ slug: /keynote
 - [Download Portuguese Captions - .SRT](https://globalaibootcamp.blob.core.windows.net/keynote/2024/Global_AI_Keynote_2024_PT.srt)
 - [Download Hindi Captions - .SRT](https://globalaibootcamp.blob.core.windows.net/keynote/2024/Global_AI_Keynote_2024_HI.srt)
 - [Download Tamil Captions - .SRT](https://globalaibootcamp.blob.core.windows.net/keynote/2024/Global_AI_Keynote_2024_TA.srt)
-
+- [Download Chinese (Simplified) Captions - .SRT](https://globalaibootcamp.blob.core.windows.net/keynote/2024/Global_AI_Keynote_2024_CH_simplified.srt)
+- [Download Chinese (Cantonese) Captions - .SRT](https://globalaibootcamp.blob.core.windows.net/keynote/2024/Global_AI_Keynote_2024_CH_cantonese.srt)
+- [Download Chinese (Traditional) Captions - .SRT](https://globalaibootcamp.blob.core.windows.net/keynote/2024/Global_AI_Keynote_2024_CH_traditional.srt)
 
 *If you require a different language please send us an email*
