@@ -12,14 +12,14 @@ const config = {
   title: "Organizers information",
   tagline: "",
   url: "https://globalaicommunity.github.io/",
-  baseUrl: "/global-ai-bootcamp-2024/",
+  baseUrl: "/global-ai-bootcamp-2025/",
 
   onBrokenLinks: "ignore",
   onBrokenMarkdownLinks: "ignore",
   trailingSlash: true,
 
   organizationName: "globalaicommunity", 
-  projectName: "global-ai-bootcamp-2024",
+  projectName: "global-ai-bootcamp-2025",
   deploymentBranch: "gh-pages", 
   favicon: "img/favicon.ico",
 
