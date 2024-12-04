@@ -3,6 +3,11 @@ title: "Workshop"
 slug: /workshop
 ---
 
+```note 
+This workshop is currently being updated.
+```
+
+
 # Workshop Interact with OpenAI models
 
 This lab offers a practical and immersive learning experience in Prompt Engineering. Discover the power of techniques like zero-shot learning and chain of thought. 
@@ -18,7 +23,7 @@ Explore the creative potential of DALL-E for image generation. Learn how to effe
 ### 1. Get an event key
 As an organizers you need an event key. This event key you share with your workshop attendees.   
 
-Your attendees can use the event key to request an access key for the playground. The playground key is valid for the duration of the workshop. 
+Your attendees can use the event key to request an access key for the playground. The access key is valid for the duration of the workshop. 
 
 **[Request an event key](https://global-ai-communiy.zapier.app/workshop-event-key-request)**
 

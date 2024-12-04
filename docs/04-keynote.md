@@ -2,36 +2,25 @@
 title: "Keynote"
 slug: /keynote
 ---
-# Keynote 2024
- 
-***Keynote is now available!***
+# Keynote 2025
+
+The keynote is currectly being recorded. Expected duration is 25 minutes and the keynote will be published in the last week of february.
 
 
-## Global AI Bootcamp 2024 - Keynote
-![](https://i3.ytimg.com/vi/LtxzL9Vh9hE/maxresdefault.jpg)
 
 
-### Youtube
 
-- https://www.youtube.com/watch?v=LtxzL9Vh9hE
 
-*Captions available: English / Spanish / French / Portuguese / Hindi / Tamil*
 
-### Downloads
 
-**Video files**
-- [Download MP4 - 4K Version (1.25GB)](https://globalaibootcamp.blob.core.windows.net/keynote/2024/Global_AI_Keynote_2024_4k.mp4)
-- [Download MP4 - HD Version (430MB)](https://globalaibootcamp.blob.core.windows.net/keynote/2024/Global_AI_Keynote_2024_HD.mp4)
-
-**Captions**
-- [Download English Captions - .SRT](https://globalaibootcamp.blob.core.windows.net/keynote/2024/Global_AI_Keynote_2024_EN.srt)
-- [Download Spanish Captions - .SRT](https://globalaibootcamp.blob.core.windows.net/keynote/2024/Global_AI_Keynote_2024_ES.srt)
-- [Download French Captions - .SRT](https://globalaibootcamp.blob.core.windows.net/keynote/2024/Global_AI_Keynote_2024_FR.srt)
-- [Download Portuguese Captions - .SRT](https://globalaibootcamp.blob.core.windows.net/keynote/2024/Global_AI_Keynote_2024_PT.srt)
-- [Download Hindi Captions - .SRT](https://globalaibootcamp.blob.core.windows.net/keynote/2024/Global_AI_Keynote_2024_HI.srt)
-- [Download Tamil Captions - .SRT](https://globalaibootcamp.blob.core.windows.net/keynote/2024/Global_AI_Keynote_2024_TA.srt)
-- [Download Chinese (Simplified) Captions - .SRT](https://globalaibootcamp.blob.core.windows.net/keynote/2024/Global_AI_Keynote_2024_CH_simplified.srt)
-- [Download Chinese (Cantonese) Captions - .SRT](https://globalaibootcamp.blob.core.windows.net/keynote/2024/Global_AI_Keynote_2024_CH_cantonese.srt)
-- [Download Chinese (Traditional) Captions - .SRT](https://globalaibootcamp.blob.core.windows.net/keynote/2024/Global_AI_Keynote_2024_CH_traditional.srt)
-
-*If you require a different language please send us an email*
+## Pas bootcamp keynote
+- [Global AI Bootcamp 2024](https://www.youtube.com/watch?v=LtxzL9Vh9hE)
+- [Global AI Generate 2023](https://www.youtube.com/watch?v=4HqZCR8N5rE)
+- [Global AI Bootcamp 2023](https://www.youtube.com/watch?v=D7_RN5Gc-RE)
+- [Global AI Bootcamp 2022](https://www.youtube.com/watch?v=C0MF9-hsPUQ)
+- [Global AI Bootcamp 2021]()
+- [Global AI Bootcamp 2020]()
+- [Global AI Night Keynote September 2019](https://www.youtube.com/watch?v=tI2cFB6Du-w)
+- [Global AI Bootcamp 2019](https://www.youtube.com/watch?v=31SUgJM9YUI)
+- [Global AI Night Keynote April 2019](https://www.youtube.com/watch?v=yKZT6JUQD9s)
+- [Global AI Bootcamp 2018](https://www.youtube.com/watch?v=BBONtM_GP_8)
