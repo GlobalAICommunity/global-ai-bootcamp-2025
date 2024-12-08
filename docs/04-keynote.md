@@ -13,7 +13,7 @@ The keynote is currectly being recorded. Expected duration is 25 minutes and the
 
 
 
-## Pas bootcamp keynote
+## Past bootcamp keynote
 - [Global AI Bootcamp 2024](https://www.youtube.com/watch?v=LtxzL9Vh9hE)
 - [Global AI Generate 2023](https://www.youtube.com/watch?v=4HqZCR8N5rE)
 - [Global AI Bootcamp 2023](https://www.youtube.com/watch?v=D7_RN5Gc-RE)
