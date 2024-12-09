@@ -30,6 +30,10 @@ Offcourse! If you are an official Global AI Chapter, then you can find all your 
 
 Yes, but only to cover your costs. The Global AI Community is a non-profit to help people to learn more about AI, we make no profit and we request the same from our local chapters. It is allowed though to ask for a minimum fee to cover the cost of catering and/or venue costs.
 
+**Does the event need to be in-person?**
+
+No, it can be virtual, hybrid or in-person. But let's be honest! In person events are the best! Isn'it?
+
 
 # Register 
 
