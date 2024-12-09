@@ -4,7 +4,7 @@ slug: /workshop
 ---
 
 ```note 
-This workshop is currently being updated.
+We are still updating this page.
 ```
 
 
@@ -14,45 +14,15 @@ This lab offers a practical and immersive learning experience in Prompt Engineer
 Explore the creative potential of DALL-E for image generation. Learn how to effectively use function calling to unlock the full capabilities of prompt engineering.   
 
 **Duration:** 75 Minutes   
-**Level:** Beginner   
+**Level:** Beginner
 
+[Content](workshops/01-interact-with-openai-models.md)
 
-## How to run the workshop
+# Building a RAG with PostgreSQL
 
+This lab demonstrates how to use AI-driven features on Azure PostgreSQL Flexible Server. It includes steps to set up the environment, populate the database with sample data, and use various AI-driven features to enhance your application.
 
-### 1. Get an event key
-As an organizers you need an event key. This event key you share with your workshop attendees.   
+**Duration:** 75 Minutes
+**Level:** Intermediate
 
-Your attendees can use the event key to request an access key for the playground. The access key is valid for the duration of the workshop. 
-
-**[Request an event key](https://global-ai-communiy.zapier.app/workshop-event-key-request)**
-
-
-### 2. Get familiar with the resources
-
-**For the organizer**
-- [Powerpoint presentation for the organizer](https://github.com/GlobalAICommunity/AzureOpenAIService-Workshop/raw/main/presentation/global-ai-workshop.pptx)
-- [Event-key request form](https://global-ai-communiy.zapier.app/workshop-event-key-request)
-
-**For the attendee**
-- [Playground access key request form](https://workshop-key.globalai.community/)
-- [Workshop for the attendees](https://workshop.globalai.community/)
-- [Playground for the attendees](https://playground.globalai.community/)
-
-
-### 3. Run the workshop
-
-The recommended time for the workshop is 75 minutes.
-
-
-| Time | Description |
-| --- | --- |
-00:00 - 00:10| Presentation part 1
-00:10 - 00:15 |	Introduction to workshop (Go through the workshop and playground)
-00:15 - 00:40 |	Workshop part 1 
-00:40 - 00:55 | Presentation part 2
-00:50 - 01:15 |	Workshop part 2
-
-
-## Questions?
-If you run into any issues please contact us on: hq@globalai.community.
+[Content](https://github.com/GlobalAICommunity/global-ai-bootcamp-2025-workshop-genai-on-postgresql)
