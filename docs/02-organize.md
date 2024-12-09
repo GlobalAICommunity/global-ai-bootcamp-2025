@@ -1,12 +1,12 @@
 ---
 title: "How to organize"
-slug: /
+slug: /organize
 ---
 # How to organize
 
 Thank you for investing your time into the wonderfull tech community! We are looking forward to help you in organizing your local Global AI Bootcamp in 2025.
 
-# Some basics
+## Some basics
 
 **What is the Global AI Bootcamp?**
 
@@ -35,21 +35,21 @@ Yes, but only to cover your costs. The Global AI Community is a non-profit to he
 No, it can be virtual, hybrid or in-person. But let's be honest! In person events are the best! Isn'it?
 
 
-# Register 
+## Register 
 
-## As an official *Global AI Chapter Lead*
+### As an official *Global AI Chapter Lead*
 Go to your [Chapter Dashboard](https://globalai.community/umbraco#/content). Click on 'Events' and create a new one.
 Fill in all the details, and thats it!
 
 ![alt text](img/chapter-new-event.png)
 
-## As a community leader
+### As a community leader
 Are you already registered as a Global AI Community member? (You are able to login on our website)
 Then you can immediatly register your event on your [dashboard](https://globalai.community/dashboard/global-ai-bootcamp-2025/)
 
 ![alt text](img/associate-new-event.png)
 
-## You are totally new?
+### You are totally new?
 Then lets first make the decision if you want to be an *associate* or a *chapter*.
 
 What is the difference?

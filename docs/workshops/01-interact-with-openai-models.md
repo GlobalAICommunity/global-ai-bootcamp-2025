@@ -1,6 +1,6 @@
 ---
-title: "Workshop"
-slug: /workshop
+title: "Interact with OpenAI models"
+slug: /workshop/interact-with-openai-models
 ---
 
 ```note 

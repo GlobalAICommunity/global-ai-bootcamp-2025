@@ -4,7 +4,7 @@ slug: /keynote
 ---
 # Keynote 2025
 
-The keynote is currectly being recorded. Expected duration is 25 minutes and the keynote will be published in the last week of february.
+The keynote is currectly being recorded. Expected duration is 25 minutes and the keynote will be *published in the last week of february*.
 
 
 
