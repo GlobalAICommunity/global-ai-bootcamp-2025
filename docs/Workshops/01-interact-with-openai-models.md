@@ -1,15 +1,13 @@
 ---
-title: "Interacting with Multimodal Models"
+title: "Interacting with Multimodal models in GitHub Models and Microsoft Copilot"
 slug: /workshop/interacting-with-multimodal-models
 ---
 
-# Interacting with Multimodal Models
+# IInteracting with Multimodal models in GitHub Models and Microsoft Copilot
 
-Innovate with Azure OpenAI's GPT-4o multimodal model in this hands-on experience in Azure AI Foundry. Learn the core concepts and best practices to effectively generate with text, sound, and images using GPT-4o-mini, DALL-E and GPT-4o-realtime. Create AI assistants that enhance user experiences and drive innovation.
+Innovate with Azure OpenAI's GPT-4o multimodal model in this hands-on experience in GitHub Models and Microsoft Copilot. Learn the core concepts and best practices to effectively generate with text, sound, and images using GPT-4o-mini and Copilot.
 
-**Duration:** 75 Minutes   
+**Duration:** 45-75 Minutes   
 **Level:** Beginner   
 
-```note 
-This workshop is currently being updated. It will be ready by February 1st.
-```
+### **[Workshop is available here](https://workshop-github-models.globalaibootcamp.com/)**
