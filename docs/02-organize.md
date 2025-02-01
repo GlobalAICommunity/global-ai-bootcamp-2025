@@ -39,10 +39,9 @@ No, it can be virtual, hybrid or in-person. But let's be honest! In person event
 ## Register 
 
 ### As an official *Global AI Chapter Lead*
-Go to your [Chapter Dashboard](https://globalai.community/umbraco#/content). Click on 'Events' and create a new one.
-Fill in all the details, and thats it!
 
-![alt text](img/chapter-new-event.png)
+As a chapter you can follow the guidance in the[Chapter Docs](https://docs.globalai.community/global-ai-bootcamp-2025/).
+
 
 ### As a community leader
 Are you already registered as a Global AI Community member? (You are able to login on our website)
