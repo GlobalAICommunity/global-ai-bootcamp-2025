@@ -20,10 +20,10 @@ Use the Microsoft AI Tour content in your Global AI Bootcamp.
 
 
 ### AI Sessions
--	[BRK440: The foundation of generative AI in Azure](https://github.com/microsoft/aitour-generative-ai-in-azure)
--	[BRK441: From concept to creation with Azure AI Studio](https://github.com/microsoft/aitour-concept-to-creation-ai-studio)
--	[BRK442: Infusing an eCommerce app with AI​](https://github.com/microsoft/aitour-ecommerce-app-with-ai) 
--	[BRK443: Getting Started with AI agents](https://github.com/microsoft/aitour-azure-openai-assistants)
+-  [BRK440: Getting started with Generative AI in Azure](https://github.com/microsoft/aitour-generative-ai-in-azure)
+-  [BRK441: Build AI Solutions with Azure AI Foundry](https://github.com/microsoft/aitour-concept-to-creation-ai-studio)
+-  [BRK443: Build your code-first app with Azure AI Agent Service](https://github.com/microsoft/aitour-azure-openai-assistants)
+-  [BRK444: Getting started with AI Agents in Azure](https://github.com/microsoft/aitour-getting-started-with-ai-agents) 
 -  	[BRK450: Prompty, AI Studio and practical E2E development](https://github.com/microsoft/aitour-e2e-dev-with-prompty-and-ai-studio)
 -  	[BRK451: Code-first GenAIOps from prototype to production](https://github.com/microsoft/aitour-llmops-with-gen-ai-tools)
 -  	[BRK452: Operationalize AI responsibly with Azure AI Studio](https://github.com/microsoft/aitour-operate-ai-responsibly-with-ai-studio)
