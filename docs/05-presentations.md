@@ -9,14 +9,46 @@ We have collected content for you to deliver at your Global AI Bootcamp, remembe
 
 ## Official Global AI Slidedecks
 
-```note 
-We are working on the presentations, we expect to have them ready at 1 February 2024.
-```
+For this years bootcamp we have 3 Global AI themed presentations available for you to use.
+
+### Getting started with Generative AI in Azure
+
+Discover the basics of generative AI, including core models, functionalities. Learn how to utilize these models within the Azure ecosystem, leveraging various services to build your own generative AI applications.
+
+**Duration:** 45 Minutes        
+**Level:** Beginner        
+
+**> [Slidedeck](https://globalaibootcamp25.blob.core.windows.net/sessions/globalaibootcamp-generative-ai.pptx)**  
+**> [Github Repo](https://github.com/GlobalAICommunity/global-ai-bootcamp-2025-session-generative-ai-in-azure)**     
+
+----
+
+#### Getting Started with AI Agents
+
+Explore the fascinating world of AI agents with Azure! Dive into the innovative Azure AI Agent Service, where you’ll discover how these intelligent agents can transform processes and products. Learn about the diverse use cases, from automating customer support to enhancing decision-making processes. Understand why AI agents are essential for modern businesses, offering efficiency, scalability, and advanced problem-solving capabilities.
+
+**Duration:** 45 Minutes      
+**Level:** Beginner     
+
+**> [Slidedeck](https://globalaibootcamp25.blob.core.windows.net/sessions/globalaibootcamp-ai-agents.pptx)**     
+**> [Github Repo](https://github.com/GlobalAICommunity/global-ai-bootcamp-2025-session-ai-agents)**     
+
+----
+
+### Exploring cutting-edge models: LLMs, SLMs, local development and more
+
+Today, there are many Generative AI models to choose from: Large Language Models (LLMs), Small Language Models (SLMs), proprietary models, open models, models in the cloud, models on devices, text models, code models, image models, and multimodal models. In this session, we'll provide guidance to help you choose the right model to fit your needs, and tools you can use to evaluate and compare models for your specific tasks.
+
+**Duration:** 45 Minutes        
+**Level:** Intermediate        
+
+**> [Slidedeck](https://globalaibootcamp25.blob.core.windows.net/sessions/globalaibootcamp-cutting-edge-models.pptx)**     
+**> [Github Repo](https://github.com/GlobalAICommunity/global-ai-bootcamp-2025-session-cutting-edge-models)**     
 
 
 ## Microsoft AI Tour
 
-Use the Microsoft AI Tour content in your Global AI Bootcamp.
+Another great resource for presentations for your bootcamp is this years Microsoft AI Tour content. Feel free to present these during your Global AI Bootcamp.
 
 
 ### AI Sessions
@@ -24,10 +56,10 @@ Use the Microsoft AI Tour content in your Global AI Bootcamp.
 -  [BRK441: Build AI Solutions with Azure AI Foundry](https://github.com/microsoft/aitour-concept-to-creation-ai-studio)
 -  [BRK443: Build your code-first app with Azure AI Agent Service](https://github.com/microsoft/aitour-azure-openai-assistants)
 -  [BRK444: Getting started with AI Agents in Azure](https://github.com/microsoft/aitour-getting-started-with-ai-agents) 
--  	[BRK450: Prompty, AI Studio and practical E2E development](https://github.com/microsoft/aitour-e2e-dev-with-prompty-and-ai-studio)
--  	[BRK451: Code-first GenAIOps from prototype to production](https://github.com/microsoft/aitour-llmops-with-gen-ai-tools)
--  	[BRK452: Operationalize AI responsibly with Azure AI Studio](https://github.com/microsoft/aitour-operate-ai-responsibly-with-ai-studio)
--  	[BRK453: Explore cutting-edge models: LLMs, SLMs and more](https://github.com/microsoft/aitour-exploring-cutting-edge-models)
+-  [BRK450: Prompty, AI Studio and practical E2E development](https://github.com/microsoft/aitour-e2e-dev-with-prompty-and-ai-studio)
+-  [BRK451: Code-first GenAIOps from prototype to production](https://github.com/microsoft/aitour-llmops-with-gen-ai-tools)
+-  [BRK452: Operationalize AI responsibly with Azure AI Studio](https://github.com/microsoft/aitour-operate-ai-responsibly-with-ai-studio)
+-  [BRK453: Explore cutting-edge models: LLMs, SLMs and more](https://github.com/microsoft/aitour-exploring-cutting-edge-models)
 
 ### Related sessions
 - [BRK410: Copilot Implementation Essentials](https://github.com/microsoft/aitour-copilot-implementation-essentials)
