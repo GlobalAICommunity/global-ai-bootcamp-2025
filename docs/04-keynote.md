@@ -7,7 +7,27 @@ slug: /keynote
 The keynote is currectly being recorded. Expected duration is 25 minutes and the keynote will be *published in the last week of february*.
 
 
+## Title
+Embracing New Skills and Responsibilities
 
+## Abstract
+In this years keynote, Roelant, Sammy, and Henk from the Global AI Community team up with well-known speakers like Scott Hanselman, Guido van Rossum, Jennifer Marsman, and Sarah Bird to talk about how AI is changing the game for developers. They explain how Python is a big deal in this shift and show off the latest cool stuff happening with AI agents. Throughout their chat, they stress how important it is for developers to pick up AI skills while also thinking about doing things ethically and responsibly. This straightforward discussion gives a clear picture of where AI is today and what it might mean for developers in the future.
+
+## Speakers
+- Scott Hanselman
+- Guido van Rossum
+- Jennifer Marsman
+- Sarah Bird
+
+## Version
+The following will be available for download and on Youtube.
+
+- Language: English
+- Captions: English / Spanish / Italian / French / Portuguese / German / Chinese / Hindi / Tamil
+- Dubbed version: German / Spanish / Hindi / Tamil / French
+
+## Download
+Visit: [keynote.globalaibootcamp.com](https://keynote.globalaibootcamp.com/) to download the full video.
 
 
 
