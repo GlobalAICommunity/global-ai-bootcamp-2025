@@ -15,9 +15,8 @@ Innovate with Azure OpenAI's GPT-4o multimodal model in this hands-on experience
 **Level:** Beginner        
 
 **> [Workshop content](https://workshop-github-models.globalaibootcamp.com/)**     
-**> [Workshop slidedeck](https://globalaibootcamp25.blob.core.windows.net/workshops/globalaibootcamp-workshop-github-models.pptx)**     
-**[> Github Repo](https://github.com/GlobalAICommunity/global-ai-bootcamp-2025-workshop-models-in-github)**     
-
+**> [Workshop slidedeck](https://globalaibootcamp25.blob.core.windows.net/workshops/globalaibootcamp-workshop-github-models.pptx)**  
+**> [Github Repo](https://github.com/GlobalAICommunity/global-ai-bootcamp-2025-workshop-models-in-github)**     
 
 ----
 
