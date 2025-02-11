@@ -28,7 +28,7 @@ Dive into the world of intelligent conversational agents with Azure AI Agent Ser
 **Level:** Moderate        
 
 **> [Workshop content](https://workshop-ai-agents.globalaibootcamp.com/)**     
-**> [Workshop slidedeck](https://globalaibootcamp25.blob.core.windows.net/workshops/globalaibootcampai-agents.pptx)**     
+**> [Workshop slidedeck](https://globalaibootcamp25.blob.core.windows.net/workshops/globalaibootcamp-workshop-ai-agents.pptx)**     
 **> [Github Repo](https://github.com/GlobalAICommunity/global-ai-bootcamp-2025-workshop-ai-agents)**     
 
 ----
