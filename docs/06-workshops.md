@@ -18,6 +18,8 @@ Innovate with Azure OpenAI's GPT-4o multimodal model in this hands-on experience
 **> [Workshop slidedeck](https://globalaibootcamp25.blob.core.windows.net/workshops/globalaibootcamp-workshop-github-models.pptx)**  
 **> [Github Repo](https://github.com/GlobalAICommunity/global-ai-bootcamp-2025-workshop-models-in-github)**     
 
+*Does not require Azure credits*
+
 ----
 
 ## Build your first agent with Azure AI Agent Service
@@ -31,6 +33,8 @@ Dive into the world of intelligent conversational agents with Azure AI Agent Ser
 **> [Workshop slidedeck](https://globalaibootcamp25.blob.core.windows.net/workshops/globalaibootcamp-workshop-ai-agents.pptx)**     
 **> [Github Repo](https://github.com/GlobalAICommunity/global-ai-bootcamp-2025-workshop-ai-agents)**     
 
+*An Azure Subscription is required*
+
 ----
 
 ### Building a RAG with PostgreSQL
@@ -43,3 +47,5 @@ This lab demonstrates how to use AI-driven features on Azure PostgreSQL Flexible
 **> [Workshop content](https://github.com/GlobalAICommunity/global-ai-bootcamp-2025-workshop-genai-on-postgresql)**     
 **> No slides**     
 **> [Github Repo](https://github.com/GlobalAICommunity/global-ai-bootcamp-2025-workshop-genai-on-postgresql)**     
+
+*An Azure Subscription is required*
