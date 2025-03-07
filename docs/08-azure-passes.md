@@ -3,9 +3,9 @@ title: "Azure Passes"
 slug: /azure-passes
 ---
 
-# Azure Passes
+# Azure Subscriptions
 
-We are happy to support your event with Azure Credits for your attendees.
+We are happy to support your event with Azure Subscriptions for your attendees.
 
 ### To get approved:​
 - Submit your request at least 48 hours before your event and take in account we do not read email on Saturday and Sunday.
